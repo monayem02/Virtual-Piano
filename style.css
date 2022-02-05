@@ -1,0 +1,54 @@
+body{
+    background-color: #b0e1b0;
+    text-align: center;
+    margin-top: 30vh;
+    margin-left: 33.5vw;
+}
+
+.white-keys{
+    position: absolute;
+}
+
+.white-keys kbd{
+    width: 50px;
+    height: 40px;
+    border: 2px solid lightgray;
+    background-color: white;
+    display: inline-block;
+    margin-left: -4px;
+    font-size: 20px;
+    padding-top: 130px;
+}
+
+.black-keys{
+    position:absolute;
+}
+
+.black-keys kbd{
+    width: 30px;
+    height: 35px;
+    border: 1px solid black;
+    display: inline-block;
+    padding-top: 70px;
+    background-color: black;
+    color: white;
+}
+
+#w{
+    margin-left: 32px;
+}
+
+#e{
+    margin-left: 19px;
+}
+
+#t{
+    margin-left: 72px;
+}
+
+#y{
+    margin-left: 19px;
+}
+#u{
+    margin-left: 19px;
+}
